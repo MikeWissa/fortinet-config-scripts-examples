@@ -1,1 +1,1 @@
-Useful Fortinet Related Config Secripts
+Useful Fortinet Related Config Scripts
