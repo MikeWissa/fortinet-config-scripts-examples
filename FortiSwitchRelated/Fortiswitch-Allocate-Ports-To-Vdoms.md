@@ -1,4 +1,4 @@
-## Configuration Scrip to
+## Configuration Script to
 # Allocate a port to a vdom
 
 ```
